@@ -1,5 +1,5 @@
 # MIT-OCW-6.0001
-Introduction to Computer Science and Programming in Python
+Introduction to Computer Science and Programming in Python taught by Dr Ana Bell, Prof. Eric Grimson, and Prof. John Guttag.
 
 Contained in this repository are files for the Introduction to Computer Science and Programming in Python course by MIT OCW.
 
